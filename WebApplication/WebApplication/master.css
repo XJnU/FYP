@@ -1,0 +1,23 @@
+﻿m-content {
+    clear:both;
+    height: 550px;
+}
+        .m-menu {
+            background-color: #028494;
+            margin-right: 1000px;
+            background: -webkit-linear-gradient(left,rgb(2,132,148),rgb(2,148,128)); /*Safari 5.1-6*/
+            background: -o-linear-gradient(right,rgba(255,0,0,0),rgba(255,0,0,1)); /*Opera 11.1-12*/
+            background: -moz-linear-gradient(right,rgba(255,0,0,0),rgba(255,0,0,1)); /*Fx 3.6-15*/
+            background: linear-gradient(180 deg,rgb(2,132,148),rgb(2,148,128)); /*Standard*/
+            width:200px;
+            
+        }
+
+.m-menu a{
+    text-decoration:none;
+    font-family:Calibri;
+    font-size:x-large;
+    font-weight:bold;
+    color:white;
+    padding-left:50px;
+}

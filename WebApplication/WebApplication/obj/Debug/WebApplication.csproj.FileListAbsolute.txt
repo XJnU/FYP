@@ -1,0 +1,7 @@
+C:\Users\andre_000\documents\visual studio 2012\Projects\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\andre_000\documents\visual studio 2012\Projects\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\andre_000\documents\visual studio 2012\Projects\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\andre_000\documents\visual studio 2012\Projects\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\andre_000\Documents\Visual Studio 2012\Projects\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\andre_000\Documents\Visual Studio 2012\Projects\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\andre_000\Documents\Visual Studio 2012\Projects\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
