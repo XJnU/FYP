@@ -21,6 +21,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.849242594387,1.36275315405416,2357
@@ -350,6 +351,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.764078524359,1.37001174192814,2357
@@ -637,6 +639,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.817401742706,1.29433247919307,2357
@@ -2380,6 +2383,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.774449937217,1.39028978660576,2357
@@ -2624,6 +2628,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.797657790475,1.34812880642645,2357
@@ -3278,6 +3283,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.807019274922,1.41125915860151,2357
@@ -4019,6 +4025,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.982359137429,1.39355756491176,2357
@@ -4840,6 +4847,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 104.020757326066,1.32566512940438,2357
@@ -5282,6 +5290,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.746596516057,1.40540927889988,2357
@@ -5501,6 +5510,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.758559853191,1.29929580828388,2357
@@ -5833,6 +5843,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.901785421548,1.30974548190477,2357
@@ -6201,6 +6212,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.835987879043,1.34168403315106,2357
@@ -6556,6 +6568,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.953216030968,1.38201578207298,2357
@@ -7248,6 +7261,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.918535577671,1.38129048727162,2357
@@ -7558,6 +7572,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.897148260009,1.41501875780234,2357
@@ -7970,6 +7985,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.817322034375,1.47077263338081,2357
@@ -8766,6 +8782,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.931928655722,1.34309428983619,2357
@@ -9526,6 +9543,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.697290689402,1.30754426048034,2357
@@ -10558,6 +10576,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.887914266161,1.40111873133485,2357
@@ -10906,6 +10925,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.882388350591,1.34452111338261,2357
@@ -11318,6 +11338,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.857207014659,1.39653762228343,2357
@@ -11785,6 +11806,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.737563287991,1.34650144839639,2357
@@ -11955,6 +11977,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.844767353337,1.34393600276297,2357
@@ -12295,6 +12318,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.693014944936,1.4336726476655,2357
@@ -14210,6 +14234,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.855626608188,1.42733533702695,2357
@@ -15016,6 +15041,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.863448721628,1.29386718147598,2357
@@ -15779,6 +15805,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.880173647281,1.28383944119148,2357
@@ -16056,6 +16083,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.845768548222,1.3098443170798,2357
@@ -16615,6 +16643,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.83532787152,1.30805932034929,2357
@@ -17223,6 +17252,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.776644012823,1.45144988406704,2357
@@ -17843,6 +17873,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.864727300743,1.28885021340135,2357
@@ -18020,6 +18051,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.845748839737,1.30092441397973,2357
@@ -18400,6 +18432,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.881516133113,1.38773920203588,2357
@@ -18802,6 +18835,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.71186639881,1.29861395321292,2357
@@ -19897,6 +19931,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.722456808455,1.45116267268992,2357
@@ -21527,6 +21562,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.824393172543,1.43505520157409,2357
@@ -21786,6 +21822,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.908057181925,1.30981646783753,2357
@@ -22364,6 +22401,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 104.054079242866,1.43230658554151,2357
@@ -23891,6 +23929,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.675903540245,1.3304982861007,2357
@@ -24834,6 +24873,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.912995586227,1.42004473976825,2357
@@ -25314,6 +25354,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.784732819043,1.31101851936119,2357
@@ -26022,6 +26063,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.823057905792,1.25757113111882,2357
@@ -29927,6 +29969,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.639198398723,1.35274114093215,2357
@@ -31384,6 +31427,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.728150998314,1.34812031803476,2357
@@ -31759,6 +31803,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.862767278406,1.33029980573295,2357
@@ -32355,6 +32400,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.863503854358,1.4343261162965,2357
@@ -32968,6 +33014,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.758188402472,1.44338336807231,2357
@@ -33456,6 +33503,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.970626477455,1.34149418067554,2357
@@ -34039,6 +34087,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.712533600071,1.29162572430244,2357
@@ -38161,6 +38210,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.82394148245,1.30040246304707,2357
@@ -38671,6 +38721,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.84313279139,1.28778211175409,2357
@@ -39004,6 +39055,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.830586315187,1.30400041755382,2357
@@ -39458,6 +39510,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.855221243267,1.31204423291706,2357
@@ -39948,6 +40001,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.83410307776,1.29247678813196,2357
@@ -40268,6 +40322,7 @@
 <styleUrl>#examplePolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
 <LinearRing>
 <coordinates> 103.862693238956,1.26975853824214,2357
