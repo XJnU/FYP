@@ -2,6 +2,36 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <name>MP14_PLNG_AREA_WEB_PL</name>
+<Style id="northPolyStyle">
+<PolyStyle>
+<color>9f1F77B4</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
+<Style id="northeastPolyStyle">
+<PolyStyle>
+<color>9faec7e8</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
+<Style id="eastPolyStyle">
+<PolyStyle>
+<color>9fff7f0e</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
+<Style id="centralPolyStyle">
+<PolyStyle>
+<color>9fffbb78</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
+<Style id="westPolyStyle">
+<PolyStyle>
+<color>9f2ca02c</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
 <Style id="examplePolyStyle">
 <PolyStyle>
 <color>9f0000ff</color>
@@ -18,7 +48,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -348,7 +378,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
