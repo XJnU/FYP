@@ -32,12 +32,6 @@
 <colorMode>random</colorMode>
 </PolyStyle>
 </Style>
-<Style id="examplePolyStyle">
-<PolyStyle>
-<color>9f0000ff</color>
-<colorMode>random</colorMode>
-</PolyStyle>
-</Style>
 <Placemark>
 <name></name>
 <description>
