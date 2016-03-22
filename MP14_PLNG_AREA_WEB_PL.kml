@@ -48,7 +48,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#northPolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -666,7 +666,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -2410,7 +2410,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -2655,7 +2655,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -3310,7 +3310,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -4052,7 +4052,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#eastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -4874,7 +4874,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#eastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -5317,7 +5317,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -5537,7 +5537,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -5870,7 +5870,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -6239,7 +6239,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -6595,7 +6595,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#eastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -7288,7 +7288,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#eastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -7599,7 +7599,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -8012,7 +8012,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -8809,7 +8809,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#eastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -9570,7 +9570,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -10603,7 +10603,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -10952,7 +10952,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -11365,7 +11365,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -11833,7 +11833,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -12004,7 +12004,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -12345,7 +12345,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -14261,7 +14261,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -15068,7 +15068,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -15832,7 +15832,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -16110,7 +16110,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -16670,7 +16670,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -17279,7 +17279,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -17900,7 +17900,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -18078,7 +18078,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -18459,7 +18459,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -18862,7 +18862,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -19958,7 +19958,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -21589,7 +21589,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -21849,7 +21849,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -22428,7 +22428,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -23956,7 +23956,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -24900,7 +24900,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northeastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -25381,7 +25381,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -26090,7 +26090,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -29996,7 +29996,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -31454,7 +31454,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -31830,7 +31830,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -32427,7 +32427,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -33041,7 +33041,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#northPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -33530,7 +33530,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#eastPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -34114,7 +34114,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#westPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -38237,7 +38237,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -38748,7 +38748,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -39082,7 +39082,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -39537,7 +39537,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -40028,7 +40028,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
@@ -40349,7 +40349,7 @@
 <b>Description - </b>
 </font></p>
 </description>
-<styleUrl>#examplePolyStyle</styleUrl>
+<styleUrl>#centralPolyStyle</styleUrl>
 <Polygon>
 <extrude>1</extrude>
 <altitudeMode>clampToGround</altitudeMode>
